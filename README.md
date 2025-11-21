@@ -2,11 +2,19 @@
 
 <br>
 
+![Alt Text](game_design_project.png)
+
+<br>
+
 Game developed with Unreal Engine 4
 
 <br>
 
 ## Description
+
+<br>
+
+![Alt Text](game_design_project.png)
 
 <br>
 
@@ -46,4 +54,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 <br>
 
-## Acknowledgments
