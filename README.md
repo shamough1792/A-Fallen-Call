@@ -1,8 +1,10 @@
-# A Fallen Call 未知來電
+<div align="center">
+  <img src="game_design_project.png"/>
+</div>
 
 <br>
 
-![Alt Text](game_design_project.png)
+# A Fallen Call 未知來電
 
 <br>
 
@@ -12,9 +14,6 @@ Game developed with Unreal Engine 4
 
 ## Description
 
-<br>
-
-![Alt Text](game_design_project.png)
 
 <br>
 
